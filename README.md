@@ -7,7 +7,7 @@ My name is __Ryo Nakagawara__. Born in __Japan__, grew up in __America__ & __Isr
 
 Currently working for [ACDI/VOCA](https://www.acdivoca.org/), an international development NGO, as a __Data Scientist__. For the past 4 years I have been doing work as both a reporting analyst & a software developer in __R__ & __SQL__. My main job has been improving ACDI/VOCA's __data pipeline__ & create R packages, reproducible reports, dashboards, & Shiny apps to communicate how our projects worldwide are progressing. I also manage our entire R code base that includes various __ETL scripts__, __R packages__, & software applications for __data collection/management__. 
 
-I am also very involved in the R community (in Japan through [Tokyo.R](https://tokyor.connpass.com/) & internationally) through my volunteer work as an editor on the [RWeekly]() newsletter (from April 2019). In 2020, I also did some work as a soccer analytics consultant for [11tegen11](https://11tegen11.com/).
+I am also very involved in the R community (in Japan through [Tokyo.R](https://tokyor.connpass.com/) & internationally) through my volunteer work as an editor on the [RWeekly](https://rweekly.org/) newsletter (from April 2019). In 2020, I also did some work as a soccer analytics consultant for [11tegen11](https://11tegen11.com/).
 
 ### Contact me! 📫💬
 
@@ -15,10 +15,14 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 - [LinkedIn](https://www.linkedin.com/in/ryonakagawara/)
 - [Email](mailto:ryonakagawara@gmail.com)
 
+### Soccer Analytics ⚽🤓
+
+- [soccer_ggplots](https://github.com/Ryo-N7/soccer_ggplots) repository: Collection of my soccer analytics blog posts & R code for data visualizations.
+- One of the authors of [ggshakeR](https://github.com/abhiamishra/ggshakeR): Analytics & Visualization R Package for Soccer Data.
+
 ### Author of R packages 💻🛠
 
-- [tvthemes](https://github.com/Ryo-N7/tvthemes): ggplot2 themes and palettes based on your favorite TV shows.
-- [ggshakeR](https://github.com/abhiamishra/ggshakeR) (alongside Abhishek Mishra & Harsh Krishna): Analytics and Visualization Package for Soccer Data.
+- [tvthemes](https://github.com/Ryo-N7/tvthemes): ggplot2 themes & palettes based on your favorite TV shows.
 - [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): Create Bullet Charts For Visualizing KPIs.
 - [centralperk](https://github.com/Ryo-N7/centralperk): R Client For The "Friends" Quotes API.
 
