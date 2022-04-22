@@ -24,4 +24,8 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 
 ### My latest blog posts! 📓
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Developer diary for {ggshakeR} 0.1.2 &lpar;a package for soccer analytics viz&rpar;: Implementing Github Actions CI tools &lpar;codecov, lintr, etc.&rpar; into the workflow!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-03-23-ggshakeR-0.1.2-announcement/)
+- [{tvthemes 1.3.0} is on CRAN: &#39;Steven Universe&#39;-themed color palettes for ggplot2!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-03-17-tvthemes-1.3.0-announcement/)
+- [Solving the &#39;preserving the sum after rounding&#39; problem for a soccer waffle viz](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-01-14-preserve-sum-rounding-soccer-viz/)
+- [J.League Soccer 2021 Season Review!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2021-12-20-jleague-2021-endseason-review/)
+- [Creating a data pipeline with Github Actions &amp; the {googledrive} package for the Canadian Premier League soccer data initiative!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2021-09-23-CanPL-GoogleDrive-GithubActions-Tutorial/)<!-- BLOG-POST-LIST:END -->
