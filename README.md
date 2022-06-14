@@ -15,6 +15,8 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 - [LinkedIn](https://www.linkedin.com/in/ryonakagawara/)
 - [Email](mailto:ryonakagawara@gmail.com)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O342A2A)
+
 ### Soccer Analytics ⚽🤓
 
 - [soccer_ggplots](https://github.com/Ryo-N7/soccer_ggplots) repository: Collection of my soccer analytics blog posts & R code for data visualizations.
