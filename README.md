@@ -30,8 +30,8 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 
 ### My latest blog posts! 📓
 <!-- BLOG-POST-LIST:START -->
+- [101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-09-20-tokyoR-101-roundup/)
 - [Developer diary for {ggshakeR} 0.2.0 &lpar;a package for soccer analytics viz&rpar;: Working smoothly as a team on GitHub for R package development!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-07-22-ggshakeR-0.2.0-announcement/)
 - [J.League Soccer 2022 Mid-Season Review!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-06-15-jleague-2022-midseason-review/)
 - [Developer diary for {ggshakeR} 0.1.2 &lpar;a package for soccer analytics viz&rpar;: Implementing Github Actions CI tools &lpar;codecov, lintr, etc.&rpar; into the workflow!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-03-23-ggshakeR-0.1.2-announcement/)
-- [{tvthemes 1.3.0} is on CRAN: &#39;Steven Universe&#39;-themed color palettes for ggplot2!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-03-17-tvthemes-1.3.0-announcement/)
-- [Solving the &#39;preserving the sum after rounding&#39; problem for a soccer waffle viz](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-01-14-preserve-sum-rounding-soccer-viz/)<!-- BLOG-POST-LIST:END -->
+- [{tvthemes 1.3.0} is on CRAN: &#39;Steven Universe&#39;-themed color palettes for ggplot2!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-03-17-tvthemes-1.3.0-announcement/)<!-- BLOG-POST-LIST:END -->
