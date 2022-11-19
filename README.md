@@ -13,6 +13,7 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 
 - [Twitter: R_by_Ryo](https://twitter.com/R_by_Ryo)
 - [LinkedIn](https://www.linkedin.com/in/ryonakagawara/)
+- <a rel="me" href="https://mstdn.social/@R_by_Ryo">Mastodon</a>
 - [Email](mailto:ryonakagawara@gmail.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O342A2A)
@@ -27,6 +28,12 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 - [tvthemes](https://github.com/Ryo-N7/tvthemes): ggplot2 themes & palettes based on your favorite TV shows.
 - [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): Create Bullet Charts For Visualizing KPIs.
 - [centralperk](https://github.com/Ryo-N7/centralperk): R Client For The "Friends" Quotes API.
+
+### Talks & Presentations
+
+- In July 2018, I gave a presentation at the TokyoR User Group on "Visualizing the World Cup with R!" - Check it out [here](https://www.youtube.com/watch?v=tNncHFd5dVo)! 
+- Back in October 2019, I gave a presentation at the TokyoR User Group on a new version of the "bulletchartr" package - Check the slides out [here](http://rpubs.com/Ryo-N7/bulletchartr-tokyor82)!
+- In `2022`, I co-hosted a webinar about ["Managing Large Codebases in R!"](https://www.activityinfo.org/support/webinars/2022-10-06-managing-large-codebases-in-R.html)
 
 ### My latest blog posts! 📓
 <!-- BLOG-POST-LIST:START -->
