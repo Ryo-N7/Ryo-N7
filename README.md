@@ -37,8 +37,8 @@ I am also very involved in the R community (in Japan through [Tokyo.R](https://t
 
 ### My latest blog posts! 📓
 <!-- BLOG-POST-LIST:START -->
+- [Modding Rome Total War &lpar;Avatar, The Last Airbender mod&rpar; using R!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2023-03-15-modding-rometotalwar-with-R/)
+- [Managing Large R Codebases webinar &lpar;summary and slides&rpar;](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2023-03-13-managing-large-codebases-with-R-webinar/)
 - [J.League Soccer 2022 Season Review!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-11-15-jleague-2022-endseason-review/)
 - [101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-09-20-tokyoR-101-roundup/)
-- [Developer diary for {ggshakeR} 0.2.0 &lpar;a package for soccer analytics viz&rpar;: Working smoothly as a team on GitHub for R package development!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-07-22-ggshakeR-0.2.0-announcement/)
-- [J.League Soccer 2022 Mid-Season Review!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-06-15-jleague-2022-midseason-review/)
-- [Developer diary for {ggshakeR} 0.1.2 &lpar;a package for soccer analytics viz&rpar;: Implementing Github Actions CI tools &lpar;codecov, lintr, etc.&rpar; into the workflow!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-03-23-ggshakeR-0.1.2-announcement/)<!-- BLOG-POST-LIST:END -->
+- [Developer diary for {ggshakeR} 0.2.0 &lpar;a package for soccer analytics viz&rpar;: Working smoothly as a team on GitHub for R package development!](https://ryo-n7.github.iohttp://Ryo-N7.github.io/2022-07-22-ggshakeR-0.2.0-announcement/)<!-- BLOG-POST-LIST:END -->
